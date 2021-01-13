@@ -41,7 +41,7 @@
   {
     "name": "NearStation",
     "url": "https://near.tinykitten.me",
-    "description": "なんか最寄り駅表示とその路線を表示できるWebアプリ"
+    "description": "なんか最寄り駅とその路線を表示できるWebアプリ"
   },
   {
     "name": "Receipt Generator",
