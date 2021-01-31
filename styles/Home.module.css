@@ -15,7 +15,7 @@
 }
 .cardContainer {
   list-style-type: none;
-  flex-basis: calc(100% / 5);
+  flex-basis: calc(100% / 4);
 }
 .card {
   background-color: white;
