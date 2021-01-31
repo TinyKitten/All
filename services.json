@@ -11,7 +11,7 @@
   },
   {
     "name": "StationAPI",
-    "url": "https://sapi.tinykitten.me",
+    "url": "https://sapi.tinykitten.me/graphql",
     "description": "TrainLCD用API"
   },  {
     "name": "RAW",
