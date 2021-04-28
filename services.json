@@ -13,7 +13,8 @@
     "name": "StationAPI",
     "url": "https://sapi.tinykitten.me/graphql",
     "description": "TrainLCD用API"
-  },  {
+  },
+  {
     "name": "RAW",
     "url": "https://raw.tinykitten.me",
     "description": "Pastebin的なもの"
@@ -62,5 +63,10 @@
     "name": "Yam",
     "url": "https://yam.tinykitten.me",
     "description": "URLとかをマストドンにシェアできるWebアプリ。今は動くかわからん"
+  },
+  {
+    "name": "RailwayMap",
+    "url": "https://rwymap.tinykitten.me",
+    "description": "チョベリグな全国の駅のマップ"
   }
 ]
