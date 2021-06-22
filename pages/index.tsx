@@ -10,12 +10,7 @@ export default function Home(): React.ReactElement {
         <ul className={styles.cards}>
           {services.map((s) => (
             <li className={styles.cardContainer} key={s.name}>
-              <a
-                href={s.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                key={s.name}
-              >
+              <a href={s.url} target="_blank" rel="noopener noreferrer">
                 <div className={styles.card}>
                   <span className={styles.link}>
                     {s.name}
