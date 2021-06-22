@@ -20,34 +20,9 @@
     "description": "Pastebin的なもの"
   },
   {
-    "name": "Businesscard Generator",
-    "url": "https://cardgen.tinykitten.me",
-    "description": "朕の名刺っぽいものを作れる"
-  },
-  {
-    "name": "Ginza.js 5 Slide",
-    "url": "https://ginzajs5.tinykitten.me",
-    "description": "昔登壇したときのスライド"
-  },
-  {
-    "name": "LT Timer",
-    "url": "https://lttimer.tinykitten.me",
-    "description": "ラーメンタイマー"
-  },
-  {
-    "name": "Name",
-    "url": "https://name.tinykitten.me",
-    "description": "愚痴書けるとこ"
-  },
-  {
     "name": "NearStation",
     "url": "https://near.tinykitten.me",
     "description": "なんか最寄り駅とその路線を表示できるWebアプリ"
-  },
-  {
-    "name": "Receipt Generator",
-    "url": "https://receiptgen.tinykitten.me",
-    "description": "レシートジェネレータ。文字通り。"
   },
   {
     "name": "Speedometer",
@@ -58,11 +33,6 @@
     "name": "TrainLCD LP",
     "url": "https://trainlcd.tinykitten.me",
     "description": "TrainLCDってアプリのLP"
-  },
-  {
-    "name": "Yam",
-    "url": "https://yam.tinykitten.me",
-    "description": "URLとかをマストドンにシェアできるWebアプリ。今は動くかわからん"
   },
   {
     "name": "RailwayMap",
