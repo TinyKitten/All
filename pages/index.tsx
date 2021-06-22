@@ -9,20 +9,17 @@ export default function Home(): React.ReactElement {
         <h1 className={styles.title}>All Services</h1>
         <ul className={styles.cards}>
           {services.map((s) => (
-            <li key={s.name} className={styles.cardContainer}>
-              <div className={styles.card}>
-                <a
-                  className={styles.link}
-                  href={s.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  {s.name}
-                  <br />
-                  <small className={styles.url}>{s.url}</small>
-                </a>
-                <p className={styles.description}>{s.description}</p>
-              </div>
+            <li className={styles.cardContainer} key={s.name}>
+              <a href={s.url} target="_blank" rel="noopener noreferrer">
+                <div className={styles.card}>
+                  <span className={styles.link}>
+                    {s.name}
+                    <br />
+                    <small className={styles.url}>{s.url}</small>
+                  </span>
+                  <p className={styles.description}>{s.description}</p>
+                </div>
+              </a>
             </li>
           ))}
         </ul>
