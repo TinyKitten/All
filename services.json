@@ -38,5 +38,10 @@
     "name": "RailwayMap",
     "url": "https://rwymap.tinykitten.me",
     "description": "チョベリグな全国の駅のマップ"
+  },
+  {
+    "name": "TrainLCD Image Generator",
+    "url": "https://trainlcdgen.tinykitten.me",
+    "description": "TrainLCDっぽい画像を生成できるサービス(WIP)"
   }
 ]
