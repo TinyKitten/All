@@ -15,11 +15,6 @@
     "description": "TrainLCD用API"
   },
   {
-    "name": "RAW",
-    "url": "https://raw.tinykitten.me",
-    "description": "Pastebin的なもの"
-  },
-  {
     "name": "NearStation",
     "url": "https://near.tinykitten.me",
     "description": "なんか最寄り駅とその路線を表示できるWebアプリ"
