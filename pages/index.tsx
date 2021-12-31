@@ -1,6 +1,6 @@
 import React from 'react';
-import styles from '../styles/Home.module.css';
 import services from '../services.json';
+import styles from '../styles/Home.module.css';
 
 export default function Home(): React.ReactElement {
   return (
@@ -30,7 +30,7 @@ export default function Home(): React.ReactElement {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Copyright &copy; 2021 TinyKitten
+          Copyright &copy; 2021-{new Date().getFullYear()} TinyKitten
         </a>
       </footer>
     </>
