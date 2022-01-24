@@ -38,5 +38,10 @@
     "name": "Neki",
     "url": "https://neki.tinykitten.me",
     "description": "次に行くべき駅を考えてくれるWebアプリ"
+  },
+  {
+    "name": "STATLE",
+    "url": "https://statle.tinykitten.me",
+    "description": "ローマ字5文字の駅名を推測するゲーム"
   }
 ]
